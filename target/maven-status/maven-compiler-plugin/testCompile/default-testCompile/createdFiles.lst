@@ -1,0 +1,7 @@
+tests\other\SFMainTest.class
+tests\other\FileTest.class
+tests\RemoveOnDifferentSqlsTest.class
+tests\SFTest.class
+tests\buildFileTest.class
+tests\other\StringTest.class
+tests\SFPrintTest.class
